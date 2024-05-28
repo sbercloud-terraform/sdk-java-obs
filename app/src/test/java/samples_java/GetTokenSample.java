@@ -28,7 +28,7 @@ import okhttp3.Response;
 import okhttp3.Route;
 
 public class GetTokenSample {
-	private static final String endPoint = "https://your-iam-endpoint";
+	private static final String endPoint = "obs.ru-moscow-1.hc.sbercloud.ru";
 
 	private static final String userName = "*** Provide your user name ***";
 

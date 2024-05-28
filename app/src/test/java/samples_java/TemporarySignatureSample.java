@@ -43,7 +43,7 @@ import okhttp3.Response;
  * way on OBS using the OBS SDK for Java.
  */
 public class TemporarySignatureSample {
-	private static final String endPoint = "http://your-endpoint";
+	private static final String endPoint = "obs.ru-moscow-1.hc.sbercloud.ru";
 
 	private static final String ak = "*** Provide your Access Key ***";
 

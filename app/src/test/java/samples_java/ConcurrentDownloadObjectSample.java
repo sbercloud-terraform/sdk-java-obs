@@ -39,7 +39,7 @@ import com.obs.services.model.ObsObject;
  */
 public class ConcurrentDownloadObjectSample
 {
-    private static final String endPoint = "https://your-endpoint";
+    private static final String endPoint = "obs.ru-moscow-1.hc.sbercloud.ru";
     
     private static final String ak = "*** Provide your Access Key ***";
     

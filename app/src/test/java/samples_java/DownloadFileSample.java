@@ -25,7 +25,7 @@ import com.obs.services.model.MonitorableProgressListener;
 import com.obs.services.model.ProgressStatus;
 
 public class DownloadFileSample {
-    private static final String endPoint = "https://your-endpoint";
+    private static final String endPoint = "obs.ru-moscow-1.hc.sbercloud.ru";
 
     private static final String ak = "*** Provide your Access Key ***";
 

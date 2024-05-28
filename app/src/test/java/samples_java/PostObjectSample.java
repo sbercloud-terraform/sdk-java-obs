@@ -49,7 +49,7 @@ public class PostObjectSample
     /*
      * Example: obs.cn-north-1.myhuaweicloud.com
      */
-    private static final String endPoint = "your-endpoint";
+    private static final String endPoint = "obs.ru-moscow-1.hc.sbercloud.ru";
     
     private static final String ak = "*** Provide your Access Key ***";
     
